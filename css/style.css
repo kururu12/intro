@@ -1,0 +1,37 @@
+@import url(sanitize.css);
+.content {
+    text-align: center;
+    background-color: rgb(121, 191, 226);
+    width: 600px;
+    margin: 10px auto;
+    border: 8px solid rgb(255, 255, 120);
+    padding: 20px;
+}
+h1 {
+    font-size: 28px;
+    margin: 0;
+    color: rgba(255, 154, 255, 0.808);
+}
+h2 {
+    font-size: 24px;
+    margin: 0;
+    color: aqua;
+}
+h3 {
+    font-size: 20px;
+    margin: 0;
+    color: rgba(255, 154, 255, 0.808);
+}
+h4 {
+    font-size: 18px;
+    margin: 0;
+    color: rgba(255, 154, 255, 0.808);
+}
+p {
+    font-size: 16px;
+    margin: 0;
+    color: rgb(255, 255, 255);
+}
+a {
+    color: #666; /* 文字色をグレーに */
+}
